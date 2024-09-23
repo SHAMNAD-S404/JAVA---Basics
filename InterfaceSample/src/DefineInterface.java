@@ -1,0 +1,3 @@
+interface making{
+	void food();
+}
